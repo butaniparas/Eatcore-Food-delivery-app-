@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_favorder"
+            android:icon="@drawable/hearticon"
+            android:title="Favorite Orders" />
+        <item
+            android:id="@+id/menu_addbook"
+            android:icon="@drawable/ic_baseline_menu_book_24"
+            android:title="Address Book" />
+        <item
+            android:id="@+id/menu_odhelp"
+            android:icon="@drawable/ic_baseline_help_outline_24"
+            android:title="Online Ordering Help" />
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/abouticon"
+            android:title="About" />
+
+    </group>
+
+<group
+    android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/menu_rating"
+        android:title="Rate us on playstore"
+        />
+    <item android:title="Logout"
+        android:id="@+id/menu_logout"/>
+</group>
+
+</menu>

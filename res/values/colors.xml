@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#E9E9E9</color>
+    <color name="red">#CC1313</color>
+    <color name="dark_light_gray">#A9A9A9</color>
+    <color name="azurlane1">#7F7FD5</color>
+    <color name="azurlane2">#86A8E7</color>
+    <color name="azurlane3">#91EAE4</color>
+
+</resources>
